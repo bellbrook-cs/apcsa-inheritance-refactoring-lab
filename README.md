@@ -2,7 +2,7 @@
 
 ## Lab Description
 
-This assignment will last over the next few days, you are free to work ahead. However, I will be covering relevant content every day that may help with that days task.
+This assignment will take place over the next few days, you are free to work ahead. However, I will be covering relevant content every day that may help with that days task.
 
 The end goal of this will be to fix every TODO statement marked in the document. You will be given different goals every class day to serve as that days lab.
 
