@@ -24,7 +24,7 @@ At the beginning of every new section, you should fork the current version of yo
 
 - Refactor code from Bike, Plane, and Car class so that they are all children of Vehicle.
 
-### Day 4 (Friday)
+### Day 4 ~~(Friday)~~ (Monday)
 
 - Finishing touches in the main class.
 - Programmer Proofing with try-catch statements.
